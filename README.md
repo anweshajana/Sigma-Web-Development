@@ -20,3 +20,16 @@ It is the portion of software that doesn’t come in direct contact with the use
 1. HTML (Hypertext Markup Language)
 2. CSS (Cascade Style Sheet)
 3. JavaScript
+
+-------------------------------------------------------------------
+
+**To Preview the Website in mobile phone also:**
+Open Terminal → ipconfig (command) → copy IPv4 address → open VS Code → Settings → live preview → change the local IP address with the IPv4 address → make sure the Wi-Fi is turned on to private network → now restart VS Code → type the IPv4 address and port number in the mobile phone browser (you can now see the website in the mobile phone)
+
+------------------------------------------------------------------
+
+## **Document Structure Tags**
+1.  **`<DOCTYPE html>`**: Specifies the document type.
+2. **`<html>`**: Encloses the entire HTML document.
+3. **`<head>`**: Contains meta-information and links to scripts and stylesheets.
+4.  **`<body>`**: Contains the content of the web page.
