@@ -1,6 +1,6 @@
 # Sigma-Web-Development
 
-**Components of HTML are:**
+### **Components of HTML are:**
 1. Client side (Front-end): Runs in the user’s browser, handling the interface, input, and interactivity using HTML, CSS, and JavaScript.
 2. Browser:  Software (e.g., Chrome, Firefox, Edge, Safari) that retrieves web pages, executes client-side code, and displays content.
 3. Server Side (Back-end): Runs on the web server, handling data, security, authentication, and heavy processing using languages like Python, Node.js, PHP, Ruby, or Java.
