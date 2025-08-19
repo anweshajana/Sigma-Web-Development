@@ -7,11 +7,11 @@
 4. Relationship: The browser executes client-side code, which communicates with the server-side for data or actions. The server responds, and the browser renders the result for the user.
 --------------------------------------------------------
 
-**Backend:**
-The backend is the server side of the website.
-It stores and arranges data, also makes sure that everything on the client side works fine.
-It is the part of the website that you cannot see and interact with.
-It is the portion of software that doesn’t come in direct contact with the users.
+## **Backend:**
+1. The backend is the server side of the website.
+2. It stores and arranges data, also makes sure that everything on the client side works fine.
+3. It is the part of the website that you cannot see and interact with.
+4. It is the portion of software that doesn’t come in direct contact with the users.
 --------------------------------------------------------------------------------------
 
 **Frontend of a website is created using 3 languages:**
