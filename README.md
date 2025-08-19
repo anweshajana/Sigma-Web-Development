@@ -14,6 +14,8 @@ It stores and arranges data, also makes sure that everything on the client side 
 It is the part of the website that you cannot see and interact with.
 It is the portion of software that doesn’t come in direct contact with the users.
 
+--------------------------------------------------------------------------------------
+
 **Frontend of a website is created using 3 languages:**
 1. HTML (Hypertext Markup Language)
 2. CSS (Cascade Style Sheet)
