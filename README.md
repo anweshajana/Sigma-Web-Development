@@ -5,7 +5,7 @@
 2. Browser:  Software (e.g., Chrome, Firefox, Edge, Safari) that retrieves web pages, executes client-side code, and displays content.
 3. Server Side (Back-end): Runs on the web server, handling data, security, authentication, and heavy processing using languages like Python, Node.js, PHP, Ruby, or Java.
 4. Relationship: The browser executes client-side code, which communicates with the server-side for data or actions. The server responds, and the browser renders the result for the user.
-
+-----------------------------------------------------------------------------------------------------
 ### **Backend:**
 1. The backend is the server side of the website.
 2. It stores and arranges data, also makes sure that everything on the client side works fine.
