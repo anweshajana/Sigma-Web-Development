@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <img height="230" src="image.jpg" alt="Bridge Image">
+    <!--In this src, alt are attribute of img tag.
+    1. width attribute specifies the width of the image in pixels.
+    2. height attribute specifies the height of the image in pixels.
+    3. src attribute tells the browser where to fetch the image from.
+    4. alt attribute provides alternative text if the image can't load.-->
+    <br> <!--this is a line break-->
+
+    <table>
+        <caption>Employee Details</caption> <!--This caption is used to give a title to the table.-->
+
+        <thead> <!--This is the header of the table. It contains the column names.-->
+            <tr>
+                <th>Name</th>
+                <th>Designation</th>
+                <th>Fav Language</th>
+            </tr>
+        </thead>
+
+        <tbody> <!--This is the body of the table. It contains the data.-->
+            <tr>
+                <td>John</td>
+                <td>Engineer</td>
+                <td>HTML</td>
+            </tr>
+            <tr>
+                <td colspan="2">Sam</td> <!--Here colspan is an attribute. This represents that the column span is 2-->
+                <td rowspan="2">JavaScript</td> <!--Here rowspan is an attribute. This represents that the row span is 2-->
+            </tr>
+            <tr>
+                <td colspan="2">Sam</td>
+            </tr>
+        </tbody>
+
+        <tfoot> <!--This is the footer of the table. It contains the summary or total.-->
+            <tr>
+                <td colspan="2">Sam</td>
+                <td rowspan="2">Footer</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+
+</html>
